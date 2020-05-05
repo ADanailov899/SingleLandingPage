@@ -1,0 +1,43 @@
+body {
+    background-image: url('images/bg-desktop.svg');
+    background-color: hsl(257, 40%, 49%) !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
+.container-fluid {
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+
+.picture {
+    margin: 5px auto;
+}
+
+.text {
+    color: white;
+    margin-top: 4em;
+}
+
+.text p {
+    font-size: 20px;
+}
+
+button {
+    width: 18em;
+    height: 3em;
+    border-radius: 18px !important;
+    background-color: white;
+    color: hsl(257, 40%, 49%);
+    font-size: 16px;
+    margin-top: 3em !important;
+}
+
+.social {
+    position: absolute;
+    right: 0;
+}
